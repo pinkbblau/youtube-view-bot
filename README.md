@@ -1,1 +1,17 @@
-# youtube-view-bot
+## Youtube View Bot
+
+### Features
+* Proxy Usage.
+* Multi Video View Sending.
+* Multi Thread View Sending.
+
+### Legal
+This tool is _for educational_ purposes only.
+
+### Contact & Information
+Other Tools: telegram: https://t.me/toolsocial
+
+Contact: telegram: https://t.me/pinkblau
+
+### Video
+https://www.youtube.com/watch?v=7JYVE9GYHjg
